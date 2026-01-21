@@ -1,0 +1,13 @@
+{
+    "name": "Razed Casino: Claim Bonuses & Play Now | Online Gaming",
+    "short_name": "Ignition Casino",
+    "description": "Razed Casino: Join the premier legal platform in Australia for top slots and live games. Claim your reward! | Digital Casino Site & General Call to Action.",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/images/fav.png",
+            "type": "image/png"
+        }
+    ]
+}
